@@ -3,7 +3,7 @@
 ESSID: BUPT-mobile
 ## 简介
 
-本 ESSID 主要提供支持 WPA2-Enterprise 安全标准的无线终端接入，用户通过 EAP 认证后，即可利用本接入服务实现满足下行上网需求。
+本 ESSID 主要提供支持 WPA2-Enterprise 安全标准的无线终端接入，用户通过 EAP 认证后，即可利用本接入服务满足下行上网需求。
 ## 接入方法
 
 ### 简介
