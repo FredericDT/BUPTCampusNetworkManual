@@ -115,7 +115,7 @@ ESSID: BUPT-mobile
     - macOS
         ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-macOS-figure.png)
     - iOS
-        ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-iOS-figure.png)
+        ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-iOS-figure.jpg)
     - Windows 10
         ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-Windows-10-figure.png)
 - [Aruba. ARUBA CAMPUS FOR LARGE NETWORKS Design & Deployment Guide](https://www.arubanetworks.com/assets/tg/AVD_Large-Campus-Design-Deploy.pdf)
