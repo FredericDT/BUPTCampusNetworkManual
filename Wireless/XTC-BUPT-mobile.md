@@ -34,7 +34,26 @@ ESSID: BUPT-mobile
 4. 点击“连接”。
 ### iOS
 
-TBD
+#### 简介
+
+1. 进入"设定"-"WLAN"选定要接入的 ESSID "BUPT-mobile"
+2. 在页面中输入"使用者名称"及"密码"
+3. 验证此次连接利用的 TLS 证书确实为"BUPT Local Server Certificate"，并点击"信任"
+4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
+
+#### 逐步指引
+
+1. 进入"设定"-"WLAN"选定要接入的 ESSID "BUPT-mobile"
+    ![](./XTC-BUPT-mobile-assets/iOS-guide-figure-1.jpg)
+
+2. 在页面中输入"使用者名称"及"密码"
+    ![](./XTC-BUPT-mobile-assets/iOS-guide-figure-2.jpg)
+
+3. 验证此次连接利用的 TLS 证书确实为"BUPT Local Server Certificate"，并点击"信任"
+    ![](./XTC-BUPT-mobile-assets/iOS-guide-figure-3.jpg)
+
+4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
+    ![](./XTC-BUPT-mobile-assets/iOS-guide-figure-4.jpg)
 ### Windows 10
 
 TBD
@@ -59,7 +78,7 @@ TBD
     ![](./XTC-BUPT-mobile-assets/macOS-guide-figure-3.png)
 
 4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
-### FAQ
+#### FAQ
 
 - 在接入成功后 IPv6 RA 已分配到地址，但 IPv4 DHCP 并未分配地址。
   - 此处尝试关闭无线网接口、再开启无线网接口；
