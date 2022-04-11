@@ -71,3 +71,6 @@ TBD
 
 ## 拓扑关系
 
+用户流量到校区交换核心路径如图中绿色标注所示。
+
+![](./XTC-BUPT-mobile-assets/XTC-wireless-traffic-path.png)
