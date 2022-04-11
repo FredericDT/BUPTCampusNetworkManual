@@ -109,7 +109,19 @@ ESSID: BUPT-mobile
 
 ## 技术方案
 
-TBD
+- EAP-PEAP
+  - [Intel. 802.1X Overview and EAP Types](https://www.intel.com/content/www/us/en/support/articles/000006999/wireless/legacy-intel-wireless-products.html)
+  - 对于一阶段 TLS 证书的验证，用户可以对证书 sha-1 或 sha-256 指纹进行校验
+    - macOS
+        ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-macOS-figure.png)
+    - iOS
+        ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-iOS-figure.png)
+    - Windows 10
+        ![](./XTC-BUPT-mobile-assets/tech-verify-tls-cert-fingerprint-Windows-10-figure.png)
+- [Aruba. ARUBA CAMPUS FOR LARGE NETWORKS Design & Deployment Guide](https://www.arubanetworks.com/assets/tg/AVD_Large-Campus-Design-Deploy.pdf)
+  - DHCP Snooping + RA Guard
+  - ARP 代答
+  - Deny inter-user bridging
 
 ## 拓扑关系
 
