@@ -41,14 +41,14 @@ TBD
 
 ### macOS
 
-### 简介
+#### 简介
 
 1. 在"系统偏好设定"-"网路"-"网路名称"选择 ESSID "BUPT-mobile"
 2. 在"选择网路[BUPT-mobile]的凭证，或输入其名称和密码"界面输入账号名称及密码
 3. 在"验证凭证"界面验证此次连接利用的 TLS 证书确实为"BUPT Local Server Certificate"，并点击"继续"
 4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
 
-### 逐步指引
+#### 逐步指引
 
 1. 在"系统偏好设定"-"网路"-"网路名称"选择 ESSID "BUPT-mobile"
     ![](./XTC-BUPT-mobile-assets/macOS-guide-figure-1.png)
