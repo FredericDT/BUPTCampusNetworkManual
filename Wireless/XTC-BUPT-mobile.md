@@ -41,7 +41,30 @@ TBD
 
 ### macOS
 
-TBD
+### 简介
+
+1. 在"系统偏好设定"-"网路"-"网路名称"选择 ESSID "BUPT-mobile"
+2. 在"选择网路[BUPT-mobile]的凭证，或输入其名称和密码"界面输入账号名称及密码
+3. 在"验证凭证"界面验证此次连接利用的 TLS 证书确实为"BUPT Local Server Certificate"，并点击"继续"
+4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
+
+### 逐步指引
+
+1. 在"系统偏好设定"-"网路"-"网路名称"选择 ESSID "BUPT-mobile"
+    ![](./XTC-BUPT-mobile-assets/macOS-guide-figure-1.png)
+
+2. 在"选择网路[BUPT-mobile]的凭证，或输入其名称和密码"界面输入账号名称及密码
+    ![](./XTC-BUPT-mobile-assets/macOS-guide-figure-2.png)
+3. 在"验证凭证"界面验证此次连接利用的 TLS 证书确实为"BUPT Local Server Certificate"，并点击"继续"
+    ![](./XTC-BUPT-mobile-assets/macOS-guide-figure-3.png)
+
+4. 此刻应已接入 ESSID "BUPT-mobile" 的无线局域网
+### FAQ
+
+- 在接入成功后 IPv6 RA 已分配到地址，但 IPv4 DHCP 并未分配地址。
+  - 此处尝试关闭无线网接口、再开启无线网接口；
+  - 若未恢复，可能为 Wireless Controller 或 Wireless L3 Endpoint 策略配置有误，或 DHCP Server 故障导致，此时应报修，请参照[报修/人工支持工单提交](../3039-bupt-edu-cn.md)。
+
 ## 技术方案
 
 TBD
