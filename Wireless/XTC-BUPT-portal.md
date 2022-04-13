@@ -1,4 +1,4 @@
-# 西土城校区 BUPT-mobile
+# 西土城校区 BUPT-portal
 
 ESSID: BUPT-portal
 
@@ -30,7 +30,8 @@ ESSID: BUPT-portal
 3. 若提示您已登入成功，则此刻已成功接入 ESSID 为 "BUPT-portal" 的无线局域网，以满足下行上网需求
 ## FAQ
 
-- 如若用户自行访问 Captive Portal 认证页，而非由 AC 重定向，将会缺少必要参数，当 ClearPass 缓存过期时，认证页将会提示用户"认证失败 0x01000003"
+- 如若用户自行访问 Captive Portal 认证页，而非由 AC 重定向，将会缺少必要参数，当 ClearPass 缓存过期时，认证页将会提示用户"认证失败 0x01000003"。
+  - 此刻，用户应按照本文档"简介"-"2"指示操作，令 AC 携带参数重定向到认证页
 ## 技术方案
 
 - [Wikipedia - Captive Portal](https://en.wikipedia.org/wiki/Captive_portal)
